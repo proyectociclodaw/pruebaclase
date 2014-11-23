@@ -10,7 +10,8 @@ package javaapplication5;
  *
  * @author alberto
  */
-public class JavaApplication5 {
+public class JavaApplication5 { 
+    
 
     /**
      * @param args the command line arguments
